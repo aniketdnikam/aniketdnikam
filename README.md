@@ -1,7 +1,7 @@
 ![MasterHead](coding.gif)
 
 <p align="center">
-  <img src="https://github.com/anikednikam/aniketdnikam/blob/main/Aniket%20Nikam.png" alt="logo" width="1000"/>
+  <img src="https://github.com/aniketdnikam/aniketdnikam/blob/main/Aniket%20d%20nikam.png" alt="logo" width="1000"/>
 </p>
 
 <h1 align="center">Hi there, I'm Aniket Nikam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
