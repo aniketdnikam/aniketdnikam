@@ -79,5 +79,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAniketNikam&show_icons=true&locale=en&layout=compact" alt="Aniket Nikam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketdnikam&show_icons=true&locale=en&layout=compact" alt="Aniket Nikam" />
 </p>
