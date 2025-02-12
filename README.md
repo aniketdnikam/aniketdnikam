@@ -78,6 +78,8 @@
 
 ---
 
+<p align="center">🚀 Most Used Language: Java</p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketdnikam&show_icons=true&locale=en&layout=compact" alt="Aniket Nikam" />
+  <img src="https://img.shields.io/badge/Most%20Used-Java-blue?style=for-the-badge&logo=java" alt="Java Badge">
 </p>
