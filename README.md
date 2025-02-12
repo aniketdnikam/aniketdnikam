@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, I'm Aniket Nikam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-<h2 align="center">Software Developer | Java | MERN Stack</h2>
+<h2 align="center">Software Developer | Java Full Stack | MERN Stack</h2>
 
 <p align="center">
   🌏 Location: Pune, India
@@ -29,7 +29,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://github.com/DevAniketNikam" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="DevAniketNikam" width="40" height="40" /></a>
+  <a href="https://github.com/aniketdnikam/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="Anike tNikam" width="40" height="40" /></a>
   <a href="https://www.linkedin.com/in/aniketdnikam/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Aniket Nikam" width="40" height="40" /></a>
 </p>
 
